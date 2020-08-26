@@ -124,6 +124,7 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 | Kont/Konte            | Nytt eksamensforsøk, normalt tidlig eksamen for studenter som stryker |
 | II                    | Insitutt for informatikk                                              |
 | Matnat                | Matematisk-Naturvitenskapelig fakultet                                |
+| echo                  | Navnet på Fagutvalget ved institutt for informatikk.                  |        
 | FU                    | Kort for "Fagutvalget", som er echos tidligere navn                   |
 | RFB                   | Realfagsbygget. Se "matnat"                                           |
 | Høytek                | Høyteknologisenteret. Thormøhlensgt 55                                |
@@ -132,6 +133,17 @@ Sammen har også en rekke gode tilbud for din fysiske og psykiske velvære, tilb
 | Administrasjonsbygget | Eksamenslokale i Solheimsgaten på Danmarksplass                       |
 | Høyskolen/HVL         | Høyskolen på Vestlandet. Ligger ved Kronstad bybanestopp              |
 | Oblig                 | Obligatorisk oppgave/innlevering                                      |
+
+
+| Informatikk-ord                    | Forklaring                                                                        |
+| --------------------------- | -------------------------------------------------------------------------------------- |
+| Datatekk              | [Bachelor i Datateknologi](https://www.uib.no/studier/BAMN-DEK)       |
+| Datasikk              | [Bachelor i Datasikkerhet](https://www.uib.no/studier/BAMN-DSIK)      |
+| Datavitt              | [Gamle navnet på Bachelor i Datascience](https://www.uib.no/studier/BAMN-DVIT)|
+| IMØ                   | [Bachelor i Infomratikk, Mattematikk og Økonomi](https://www.uib.no/studier/BATF-IM%C3%98)|
+| BioInf                | [Bachelor i Bioinformatikk](https://www.uib.no/studier/BAMN-BINF)|
+| Bedpress              | Kort for [Bedriftspresentasjoner](#bedriftspresentasjoner).|
+| Lesesalen             | Navnet på [bachelor lesesalen](#Lesesaler og grupperom) på høytekk.|
 
 &nbsp;
 
@@ -175,7 +187,7 @@ Du kan også ta kontakt med hver enkelt studieveileder direkte:
 
 | Studieveileder                            | Område                                                |
 | ----------------------------------------- | ----------------------------------------------------- |
-| Ida Rosenlund ida.rosenlund@uib.no        | Bachelorprogram, utveksling, innpassing               |
+| Ida Rosenlund ida.rosenlund@uib.no        | Bachelorprogram, utveksling, innpassing. NB er i perm |
 | Pål Magnus Gunnestad pal.gunnestad@uib.no | Masterprogram, forskerutdanning (PhD)                 |
 | Mo Yan Yuen mo.yan.yuen@uib.no            | Eksamen, timeplan, emneevaluering                     |
 | liljan Myhr liljan.myhr@uib.no            | Gruppelederansettelser, klager på karakterfastsetting |
@@ -198,7 +210,7 @@ Sjekk også ut Bookis-appen for enda flere brukte bøker! Om du liker bøkene di
 
 ### Fag
 
-Første semester har man [INF100](https://www.uib.no/emne/INF100), [MAT111](https://www.uib.no/emne/MAT111) og [ex.phil](https://www.uib.no/fag/exphil). Semesteret etter har man [INF101](https://www.uib.no/emne/INF101), [MNF130](https://www.uib.no/emne/MNF130) og et linjespesifikk fag.
+Første semester har man [INF100](https://www.uib.no/emne/INF100), [MAT101](https://www.uib.no/nb/emne/MAT101) eller [MAT111](https://www.uib.no/emne/MAT111) og en av [INF140](https://www.uib.no/emne/INF140) (datatekk, datasikk og datascience), [MOL100](https://www.uib.no/emne/MOL100) (bioinformatikk) eller [ECON116](https://www.uib.no/emne/ECON116) (IMØ). [Årsstudium i informatikk](https://www.uib.no/studier/%C3%85RMN-INF) har flere valgfag. Semesteret etter har man [INF101](https://www.uib.no/emne/INF101), [MNF130](https://www.uib.no/emne/MNF130) og et linjespesifikk fag.
 
 > I det daglige omtales gjerne informatikkfag med bare nummeret deres (utenom INF100). Istedenfor å hele tiden si "INF143", sier man gjerne bare "143". Så om noen prater om et fag uten å nevne fagkoden, er det bare å tenke "informatikkfag". Noen ganger kan det også være et matematikkfag, som har unike fagkoder (feks MAT220). Så om du er i tvil, er det bare å spørre!
 
